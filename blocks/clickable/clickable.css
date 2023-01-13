@@ -1,9 +1,9 @@
-.opacity {
+.clickable {
   transition-property: opacity;
   transition-duration: 1s;
   transition-timing-function: linear;
 }
 
-.opacity:hover {
+.clickable:hover {
   opacity: 55%;
 }
