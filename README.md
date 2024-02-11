@@ -32,5 +32,5 @@
 - Позиционирование элементов.
 
 **Инструкция по установке:**
-1. Клонировать репозиторий git@github.com:Yanika90/how-to-learn.git
-2. Открыть проект в LiveServer
+1. Клонировать репозиторий `git@github.com:Yanika90/how-to-learn.git`
+2. Открыть проект в `LiveServer`
